@@ -1,0 +1,3 @@
+protocol AuthenticationControllerProtocol {
+    func checkFormStatus()
+}
